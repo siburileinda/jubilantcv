@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Authors on GoBlog – Tech, Insights &amp; Daily Discoverie</title>
+    <link>https://lambent-caramel-348a78.netlify.app/author/</link>
+    <description>Recent content in Authors on GoBlog – Tech, Insights &amp; Daily Discoverie</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://lambent-caramel-348a78.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ines</title>
+      <link>https://lambent-caramel-348a78.netlify.app/author/ines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lambent-caramel-348a78.netlify.app/author/ines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ireland</title>
+      <link>https://lambent-caramel-348a78.netlify.app/author/ireland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lambent-caramel-348a78.netlify.app/author/ireland/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wayne</title>
+      <link>https://lambent-caramel-348a78.netlify.app/author/wayne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lambent-caramel-348a78.netlify.app/author/wayne/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
